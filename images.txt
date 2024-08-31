@@ -7,3 +7,6 @@ xhofe/alist:latest
 magic4wei/casaos
 wisdomsky/casaos-toolbox
 cp0204/casamod
+https://github.com/1Panel-dev/1Panel/
+https://github.com/DaoCloud/public-image-mirr
+https://github.com/TheTNB/panel
